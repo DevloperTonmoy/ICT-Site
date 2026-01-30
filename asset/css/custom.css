@@ -1,0 +1,8 @@
+/* for zooming image  */
+.zoom {
+    transition: transform 0.4s ease;
+    cursor: pointer;
+}
+.img-wrapper{
+    overflow: hidden;
+}
